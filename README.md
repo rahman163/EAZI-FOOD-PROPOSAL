@@ -74,6 +74,12 @@ Any valid debit/credit card can be used with the Stripe payment service. The pay
 
 # MOCK-UP
 
+# REFERENCES
+1. https://www.reactnative.guide/9-redux/9.2-presentational-vs-containers.html
+2. https://creately.com/blog/diagrams/sequence-diagram-tutorial/
+3. https://reactnative.dev/docs/getting-started
+
+
 
 
 
