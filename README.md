@@ -7,7 +7,7 @@
 </ul>
 
 # GROUP - E
-# INSTRUCTOR'S NAME - MOHD KHAIRUL AZMI BIN HASSAN
+<H4> INSTRUCTOR'S NAME - MOHD KHAIRUL AZMI BIN HASSAN </4>
 
 # APPLICATION NAME: EAZI FOOD
 <p>Description of the application: <em> Online food ordering app with restaurants around the world.</em> </p>
