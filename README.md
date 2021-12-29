@@ -74,6 +74,13 @@ Any valid debit/credit card can be used with the Stripe payment service. The pay
 ![Screenshot 2021-12-29 at 4 18 40 AM](https://user-images.githubusercontent.com/69203953/147670994-a85ca2e1-5717-4a3d-802e-efed2750af3f.png)
 
 # MOCK-UP
+![Screenshot 2021-12-29 232224](https://user-images.githubusercontent.com/69203953/147677712-eced268e-61f0-42bb-9c4b-025bd82b5e00.png)
+![Screenshot 2021-12-29 232331](https://user-images.githubusercontent.com/69203953/147677732-35779472-f618-4510-a56d-f12cc054fd26.png)
+![Screenshot 2021-12-29 232445](https://user-images.githubusercontent.com/69203953/147677734-b324515a-1264-467b-bbe7-6ffd2b3eb67f.png)
+![Screenshot 2021-12-29 232504](https://user-images.githubusercontent.com/69203953/147677737-c9ec0847-8c10-44e9-b6d0-3c4cd795a910.png)
+![Screenshot 2021-12-29 232544](https://user-images.githubusercontent.com/69203953/147677741-849f4697-4886-4e20-989e-0bdb961b6a2f.png)
+![Screenshot 2021-12-29 232602](https://user-images.githubusercontent.com/69203953/147677744-dd5e66e7-62df-49ae-90fc-304ef7638e6a.png)
+![Screenshot 2021-12-29 232628](https://user-images.githubusercontent.com/69203953/147677746-896e5a6b-202d-408f-9c17-91e4df711837.png)
 
 
 # REFERENCES
