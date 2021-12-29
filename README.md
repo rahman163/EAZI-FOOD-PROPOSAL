@@ -6,6 +6,9 @@
   <li>SONIA TABASSUM ANTU - 1716978</li>
 </ul>
 
+# GROUP - E
+# INSTRUCTOR'S NAME - MOHD KHAIRUL AZMI BIN HASSAN
+
 # APPLICATION NAME: EAZI FOOD
 <p>Description of the application: <em> Online food ordering app with restaurants around the world.</em> </p>
 
@@ -37,7 +40,32 @@ Any valid debit/credit card can be used with the Stripe payment service. The pay
   <li>Online order placing and checkout, along with the option for users to save restaurant(s) as their favourites.</li>
   <li>Payment processing and authentication through Stripe. Use the link - https://stripe.com/docs/testing#cards</li>
 </ol>
+
+# SCREEN NAVIGATION
+
+<ul>
+  <li>Restaurants</li>
+  <li>checkout</li>
+  <li>Map</li>
+  <li>Settings</li>
+</ul>
+
 # PRESENTATIONAL AND CONTAINER
+
+| Presentational Components     | Explanation |
+| ----------- | ----------- |
+| Text     |   user can search for the city |
+| TextInput   | To enter the user's information on the log in/sign up page.         |
+| View      | To show the components that were used |
+| Button | use of Button sign in / create new account,order, pay |
+| Scrollview      | It's used to make the goods list scrollable horizontally.       |
+
+| Container Components      | Explanation |
+| ----------- | ----------- |
+| onPress      | Click the button to get to the next page, where you'll see the search restaurants alternatives.     |
+| onChangeText	   | TextInput components can make use of this.       |
+
+
 
 # SEQUENCE DIAGRAM
 <p>A sequence diagram to represent the interaction of the proposed mobile application.</p>
