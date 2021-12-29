@@ -72,6 +72,9 @@ Any valid debit/credit card can be used with the Stripe payment service. The pay
 
 ![Screenshot 2021-12-29 at 4 18 40 AM](https://user-images.githubusercontent.com/69203953/147670994-a85ca2e1-5717-4a3d-802e-efed2750af3f.png)
 
+# MOCK-UP
+
+
 
 
 
