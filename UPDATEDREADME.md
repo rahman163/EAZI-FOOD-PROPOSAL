@@ -78,20 +78,6 @@ Any valid debit/credit card can be used with the Stripe payment service. The pay
 ![Screenshot 2021-12-29 at 4 18 40 AM](https://user-images.githubusercontent.com/69203953/147670994-a85ca2e1-5717-4a3d-802e-efed2750af3f.png)
 
 # FINAL INTERFACE
-![Screenshot_20220123-200450](https://user-images.githubusercontent.com/69203953/150678578-b9b1aec0-49f1-4181-ba74-6cb7712d858e.png)
-![Screenshot_20220123-200505](https://user-images.githubusercontent.com/69203953/150678582-9b16a719-b786-458c-a7e4-687fcb771f9d.png)
-![Screenshot_20220123-200512](https://user-images.githubusercontent.com/69203953/150678589-3c6ffa51-6e13-4b63-b409-2a06d246e264.png)
-![Screenshot_20220123-200520](https://user-images.githubusercontent.com/69203953/150678592-14a70166-2e6d-427d-ac7b-9c353ed98a1a.png)
-![Screenshot_20220123-200549](https://user-images.githubusercontent.com/69203953/150678594-12153b07-141e-4e70-92c4-e4f22d66e533.png)
-![Screenshot_20220123-200600](https://user-images.githubusercontent.com/69203953/150678595-6ab7f08b-7163-463f-96ff-366983ee04fb.png)
-![Screenshot_20220123-200612](https://user-images.githubusercontent.com/69203953/150678598-593dabf8-ad2c-445b-82c4-a8f7a041f9d3.png)
-![Screenshot_20220123-200721](https://user-images.githubusercontent.com/69203953/150678600-8e0761be-8f6e-4c08-ab52-0253dc669b5f.png)
-![Screenshot_20220123-200854](https://user-images.githubusercontent.com/69203953/150678601-4643c39a-feef-42e5-859c-d5e49cd4adcd.png)
-![Screenshot_20220123-200911](https://user-images.githubusercontent.com/69203953/150678602-95183bef-4e9e-423c-9925-e455ed90e01f.png)
-![Screenshot_20220123-200928](https://user-images.githubusercontent.com/69203953/150678603-afb2ffd1-059a-4007-946b-2b430bbcc0b1.png)
-![Screenshot_20220123-200950](https://user-images.githubusercontent.com/69203953/150678605-85c81aca-1daa-4600-bb59-4e874ca17071.png)
-![Screenshot_20220123-201025](https://user-images.githubusercontent.com/69203953/150678606-6cdb2531-58e2-4e32-8e9e-1795d506cfc6.png)
-![Screenshot_20220123-201032](https://user-images.githubusercontent.com/69203953/150678607-ec48b44c-e376-4135-a612-2275682b7c2c.png)
 
 
 # REFERENCES
